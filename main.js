@@ -10,7 +10,7 @@ rainbow.splice(1, 3);
 rainbow.push('Gave','Battle', destination[1], 'Vain');
 console.log(rainbow);
 
-for (var i = 0; i < rainbow.length; i++) {
+for (i = 0; i < rainbow.length; i++) {
   element = rainbow[i];
   colorClass = '';
 
