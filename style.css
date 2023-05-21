@@ -1,0 +1,57 @@
+body { 
+    display: flex;  
+    justify-content: center;
+    align-items: baseline;
+  }
+.text{
+  margin-top: 20px;
+  margin-right: 20px;
+}
+  .circle {
+    display:flex;
+   
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
+  .red {
+    background-color: red;
+    color: white;
+  }
+
+  .orange {
+    background-color: orange;
+    color: white;
+  }
+
+  .yellow {
+    background-color: yellow;
+    color: black;
+  }
+
+  .green {
+    background-color: green;
+    color: white;
+  }
+
+  .blue {
+    background-color: blue;
+    color: white;
+  }
+
+  .indigo {
+    background-color: rgb(2, 10, 114);
+    color: white;
+  }
+
+  .violet {
+    background-color: violet;
+    color: white;
+  }
